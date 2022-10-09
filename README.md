@@ -1,4 +1,4 @@
-#AudioToTextWithJavascript
+AUDIO TO TEXT WITH JAVASCRIPT
 
 Abracadabra ! Abracadabra ! Make a sound, you inanimate words
 
